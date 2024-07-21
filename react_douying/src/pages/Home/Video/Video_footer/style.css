@@ -1,0 +1,12 @@
+.videofooter {
+    position: relative;
+    bottom: 5.5rem;
+    margin-left: 0.5rem;
+    color: #cfd5d7;
+    display: flex;
+}
+
+.videofooter>p {
+    padding-bottom: 1.5rem;
+    color: #f2f2f2;
+}

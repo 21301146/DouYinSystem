@@ -1,0 +1,90 @@
+{
+  "customers": [
+    {
+      "id": "101",
+      "name": "John Doe",
+      "password": "member123",
+      "zuopin": [],
+      "upload": [
+        {
+          "title": "11111",
+          "path": "@/assets/video/1.mp4"
+        },
+        {
+          "title": "22222",
+          "path": "@/assets/video/2.mp4"
+        },
+        {
+          "title": "33333",
+          "path": "@/assets/video/3.mp4"
+        },
+        {
+          "title": "44444",
+          "path": "@/assets/video/4.mp4"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Jane Doe",
+      "password": "member123",
+      "zuopin": [],
+      "upload": [
+        {
+          "title": "11111",
+          "path": "@/assets/video/1.mp4"
+        },
+        {
+          "title": "22222",
+          "path": "@/assets/video/2.mp4"
+        },
+        {
+          "title": "33333",
+          "path": "@/assets/video/3.mp4"
+        },
+        {
+          "title": "44444",
+          "path": "@/assets/video/4.mp4"
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "videoId": "1",
+      "title": "11111",
+      "playUrl": "@/assets/video/1.mp4",
+      "favoriteCount": "10",
+      "commentCount": "10",
+      "collectCount": "10",
+      "shareCount": "10"
+    },
+    {
+      "videoId": "2",
+      "title": "22222",
+      "playUrl": "@/assets/video/2.mp4",
+      "favoriteCount": "10",
+      "commentCount": "10",
+      "collectCount": "10",
+      "shareCount": "10"
+    },
+    {
+      "videoId": "3",
+      "title": "33333",
+      "playUrl": "@/assets/video/3.mp4",
+      "favoriteCount": "10",
+      "commentCount": "10",
+      "collectCount": "10",
+      "shareCount": "10"
+    },
+    {
+      "videoId": "4",
+      "title": "44444",
+      "playUrl": "@/assets/video/4.mp4",
+      "favoriteCount": "10",
+      "commentCount": "10",
+      "collectCount": "10",
+      "shareCount": "10"
+    }
+  ]
+}

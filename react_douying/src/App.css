@@ -1,0 +1,17 @@
+html{
+  scroll-snap-type: y mandatory;
+  
+}
+.App{
+  background-color: #fdfdfd;
+  width: 100%;
+  height: 100vh;
+
+}
+/* .App{
+  height:100vh;
+  background-color: black;
+  display:grid;
+  place-items: center;
+
+} */
